@@ -1,5 +1,7 @@
 Use this code structure to implement any related function calling projects.
-Packages to be installed :
+
+# Packages to be installed :
+
 `
 pip install google-generativeai google-api-core
 `
